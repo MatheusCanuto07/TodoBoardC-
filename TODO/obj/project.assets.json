@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Matheus Canuto\\.nuget\\packages\\": {},
-    "F:\\Visual Studio\\shared\\NuGetPackages": {}
+    "C:\\Users\\mathe\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matheus Canuto\\Projects\\TODO\\TODO\\TODO.csproj",
+      "projectUniqueName": "C:\\proj\\TodoBoardC-\\TODO\\TODO.csproj",
       "projectName": "TODO",
-      "projectPath": "C:\\Users\\Matheus Canuto\\Projects\\TODO\\TODO\\TODO.csproj",
-      "packagesPath": "C:\\Users\\Matheus Canuto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matheus Canuto\\Projects\\TODO\\TODO\\obj\\",
+      "projectPath": "C:\\proj\\TodoBoardC-\\TODO\\TODO.csproj",
+      "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+      "outputPath": "C:\\proj\\TodoBoardC-\\TODO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "F:\\Visual Studio\\shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Matheus Canuto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Projects\\TODO\\",
+  "WorkspaceRootPath": "C:\\Users\\Matheus Canuto\\Projects\\TODO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|f:\\projects\\todo\\todo\\views\\boards\\boards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|c:\\users\\matheus canuto\\projects\\todo\\todo\\views\\boards\\boards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|solutionrelative:todo\\views\\boards\\boards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Boards.cshtml",
-              "DocumentMoniker": "F:\\Projects\\TODO\\TODO\\Views\\Boards\\Boards.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus Canuto\\Projects\\TODO\\TODO\\Views\\Boards\\Boards.cshtml",
               "RelativeDocumentMoniker": "TODO\\Views\\Boards\\Boards.cshtml",
-              "ToolTip": "F:\\Projects\\TODO\\TODO\\Views\\Boards\\Boards.cshtml",
+              "ToolTip": "C:\\Users\\Matheus Canuto\\Projects\\TODO\\TODO\\Views\\Boards\\Boards.cshtml",
               "RelativeToolTip": "TODO\\Views\\Boards\\Boards.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvyUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-22T21:33:33.712Z",
               "EditorCaption": ""

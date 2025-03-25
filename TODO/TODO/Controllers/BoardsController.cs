@@ -4,9 +4,9 @@ namespace TODO.Controllers
 {
     public class BoardsController : Controller
     {
-        public IActionResult Boards()
+        public IActionResult Index()
         {
-            return View();
+            return View("Index");
         }
     }
 }
