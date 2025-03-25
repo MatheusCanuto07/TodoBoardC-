@@ -10,7 +10,15 @@ $(function () {
     revert: true,
     cursor: "move",
     receive: function (event, ui) {
-      console.log(event.target.classList[0], event);
+      // TODO: Mostrar no console quantos itens tem em casa board
+      // Enviar uma OS
+      // Criar um novo board
+      // Mostrar cada item de cada lugar (Titulo, número os, tags e quem fez)
+      // Feito - Colocar uma opção para trocar os dados do board, nome e deletar ele
+
+      var boardElement = ($(event.target).closest("[data-board]")).attr("data-board");
+      console.log(boardElement);
+
     }
   });
 });

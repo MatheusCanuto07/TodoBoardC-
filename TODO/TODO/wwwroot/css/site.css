@@ -85,6 +85,7 @@ button, input, textarea, select {
 /* Garante que botões tenham cursor de clique */
 button {
  cursor: pointer;
+ all: unset;
 }
 
 /* Reset para tabelas */
