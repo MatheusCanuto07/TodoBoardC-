@@ -104,3 +104,10 @@ table {
  font-weight: 600;
  line-height: 1.2;
 }
+
+.scroll-container {
+ display: flex;
+ overflow-x: auto;
+ width: 100%;
+ gap: 10px; /* Espaçamento entre os itens */
+}
