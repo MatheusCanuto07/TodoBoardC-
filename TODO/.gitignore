@@ -25,3 +25,17 @@ project.lock.json
 # Configurações do sistema operacional
 Thumbs.db
 .DS_Store
+
+# Visual Studio
+.vs/
+
+# Compiled source
+bin/
+obj/
+# Visual Studio
+.vs/
+
+# Compiled source
+bin/
+obj/
+
