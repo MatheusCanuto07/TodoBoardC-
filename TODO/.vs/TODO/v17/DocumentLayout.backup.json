@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\proj\\TodoBoardC-\\TODO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|c:\\proj\\todoboardc-\\todo\\todo\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|solutionrelative:todo\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|c:\\proj\\todoboardc-\\todo\\todo\\controllers\\boardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|solutionrelative:todo\\controllers\\boardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 222,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "TODO\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "TODO\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-11T11:45:38.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BoardsService.cs",
               "DocumentMoniker": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Services\\BoardsService.cs",
               "RelativeDocumentMoniker": "TODO\\Services\\BoardsService.cs",
@@ -46,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BoardRepository.cs",
               "DocumentMoniker": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Repositories\\BoardRepository.cs",
               "RelativeDocumentMoniker": "TODO\\Repositories\\BoardRepository.cs",
@@ -58,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IBoardRepository.cs",
               "DocumentMoniker": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Domain\\Boards\\IBoardRepository.cs",
               "RelativeDocumentMoniker": "TODO\\Domain\\Boards\\IBoardRepository.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Domain\\Boards\\Board.cs",
               "RelativeDocumentMoniker": "TODO\\Domain\\Boards\\Board.cs",
@@ -84,13 +101,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BoardsController.cs",
               "DocumentMoniker": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Controllers\\BoardsController.cs",
               "RelativeDocumentMoniker": "TODO\\Controllers\\BoardsController.cs",
               "ToolTip": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Controllers\\BoardsController.cs",
               "RelativeToolTip": "TODO\\Controllers\\BoardsController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T15:17:04.782Z",
               "EditorCaption": ""
