@@ -11,10 +11,7 @@ $(function () {
     cursor: "move",
     receive: function (event, ui) {
       // TODO: Mostrar no console quantos itens tem em casa board
-      // Feito: Enviar uma OS
-      // Feito - Criar um novo board
-      // Mostrar cada item de cada lugar (Titulo, número os, tags e quem fez)
-      // Feito - Colocar uma opção para trocar os dados do board, nome e deletar ele
+      // Criar a funcionalidade de adicionar um novo card, board (no back)
 
       let boardElement = ($(event.target).closest("[data-board]")).attr("data-board");
       var idElement = $(event.target).find('#idCard').val();

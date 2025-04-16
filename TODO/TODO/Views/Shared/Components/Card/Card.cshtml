@@ -1,0 +1,25 @@
+﻿@model TODO.Views.Shared.Components.Card.CardViewModel
+
+<div class="card mx-2 my-3 draggable z-3">
+    <div class="d-flex justify-content-between px-2 pt-2">
+        <h3 class="mb-0 title-os">@Model.Title</h3>
+        <i class="bi bi-three-dots-vertical align-self-center"></i>
+    </div>
+
+    <div class="ps-2">
+        <ul class="d-flex">
+            @foreach (var tag in Model.Tags){
+                <li><span class="badge text-bg-@tag.Color">@tag.Name</span></li>
+            }
+        </ul>
+    </div>
+
+    <div class="d-flex justify-content-between mt-2 mb-0 px-2">
+        <div class="d-flex">
+            <i class="bi bi-archive-fill"></i>
+            <p class="mb-0">#2053</p>
+        </div>
+        <img src="@Model.PerfilPhoto" class="img-fluid rounded-circle">
+    </div>
+
+</div>
