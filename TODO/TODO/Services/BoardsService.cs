@@ -1,10 +1,11 @@
 ﻿using TODO.Domain.Boards;
+using TODO.Views.Boards;
 
 namespace TODO.Services;
 
 public interface IBoardsService
 {
-	Task<Board> CreateBoard();
+	Task<Board> CreateBoard(BoardViewModel boardViewModel);
 }
 
 public class BoardsService : IBoardsService
@@ -16,11 +17,10 @@ public class BoardsService : IBoardsService
 		_boardRepository = boardRepository;
 	}
 
-
-	public async Task<Board> CreateBoard()
+	public async Task<Board> CreateBoard(BoardViewModel boardViewModel)
 	{
-		var name = new Name("Board 1");
-		var desc = new Description("Board 1 desc");
+		var name = new Name(boardViewModel.Name);
+		var desc = new Description(boardViewModel.Description);
 		var board = await Board.CreateAsync(name, desc, _boardRepository);
 
 		return board;

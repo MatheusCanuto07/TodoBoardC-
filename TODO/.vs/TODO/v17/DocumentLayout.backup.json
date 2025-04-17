@@ -11,20 +11,20 @@
       "RelativeMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|solutionrelative:todo\\controllers\\boardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|c:\\proj\\todoboardc-\\todo\\todo\\domain\\boards\\iboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|solutionrelative:todo\\domain\\boards\\iboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|c:\\proj\\todoboardc-\\todo\\todo\\domain\\boards\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|solutionrelative:todo\\domain\\boards\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|c:\\proj\\todoboardc-\\todo\\todo\\views\\boards\\boardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|solutionrelative:todo\\views\\boards\\boardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|c:\\proj\\todoboardc-\\todo\\todo\\services\\boardsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|solutionrelative:todo\\services\\boardsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|c:\\proj\\todoboardc-\\todo\\todo\\repositories\\boardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|solutionrelative:todo\\repositories\\boardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|c:\\proj\\todoboardc-\\todo\\todo\\views\\boards\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|solutionrelative:todo\\views\\boards\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|c:\\proj\\todoboardc-\\todo\\todo\\views\\shared\\components\\section\\section.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D2D2CA1-E1E5-4868-8917-700673CC20EF}|TODO\\TODO.csproj|solutionrelative:todo\\views\\shared\\components\\section\\section.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,69 +34,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 222,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "TODO\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "TODO\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-11T11:45:38.084Z",
+              "DocumentIndex": 2,
+              "Title": "BoardViewModel.cs",
+              "DocumentMoniker": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Views\\Boards\\BoardViewModel.cs",
+              "RelativeDocumentMoniker": "TODO\\Views\\Boards\\BoardViewModel.cs",
+              "ToolTip": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Views\\Boards\\BoardViewModel.cs",
+              "RelativeToolTip": "TODO\\Views\\Boards\\BoardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:54:42.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Section.cshtml",
+              "DocumentMoniker": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Views\\Shared\\Components\\Section\\Section.cshtml",
+              "RelativeDocumentMoniker": "TODO\\Views\\Shared\\Components\\Section\\Section.cshtml",
+              "ToolTip": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Views\\Shared\\Components\\Section\\Section.cshtml",
+              "RelativeToolTip": "TODO\\Views\\Shared\\Components\\Section\\Section.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T12:53:41.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BoardsService.cs",
-              "DocumentMoniker": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Services\\BoardsService.cs",
-              "RelativeDocumentMoniker": "TODO\\Services\\BoardsService.cs",
-              "ToolTip": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Services\\BoardsService.cs",
-              "RelativeToolTip": "TODO\\Services\\BoardsService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:37:45.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BoardRepository.cs",
-              "DocumentMoniker": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Repositories\\BoardRepository.cs",
-              "RelativeDocumentMoniker": "TODO\\Repositories\\BoardRepository.cs",
-              "ToolTip": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Repositories\\BoardRepository.cs",
-              "RelativeToolTip": "TODO\\Repositories\\BoardRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:22:04.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IBoardRepository.cs",
-              "DocumentMoniker": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Domain\\Boards\\IBoardRepository.cs",
-              "RelativeDocumentMoniker": "TODO\\Domain\\Boards\\IBoardRepository.cs",
-              "ToolTip": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Domain\\Boards\\IBoardRepository.cs",
-              "RelativeToolTip": "TODO\\Domain\\Boards\\IBoardRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:20:38.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Board.cs",
-              "DocumentMoniker": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Domain\\Boards\\Board.cs",
-              "RelativeDocumentMoniker": "TODO\\Domain\\Boards\\Board.cs",
-              "ToolTip": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Domain\\Boards\\Board.cs",
-              "RelativeToolTip": "TODO\\Domain\\Boards\\Board.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:20:07.646Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Views\\Boards\\Index.cshtml",
+              "RelativeDocumentMoniker": "TODO\\Views\\Boards\\Index.cshtml",
+              "ToolTip": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Views\\Boards\\Index.cshtml",
+              "RelativeToolTip": "TODO\\Views\\Boards\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T12:20:25.536Z",
               "EditorCaption": ""
             },
             {
@@ -107,9 +83,35 @@
               "RelativeDocumentMoniker": "TODO\\Controllers\\BoardsController.cs",
               "ToolTip": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Controllers\\BoardsController.cs",
               "RelativeToolTip": "TODO\\Controllers\\BoardsController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswFAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:17:04.782Z",
+              "WhenOpened": "2025-04-17T11:53:10.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "TODO\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "TODO\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-16T18:07:54.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BoardsService.cs",
+              "DocumentMoniker": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Services\\BoardsService.cs",
+              "RelativeDocumentMoniker": "TODO\\Services\\BoardsService.cs",
+              "ToolTip": "C:\\proj\\TodoBoardC-\\TODO\\TODO\\Services\\BoardsService.cs",
+              "RelativeToolTip": "TODO\\Services\\BoardsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:50:54.594Z",
               "EditorCaption": ""
             }
           ]

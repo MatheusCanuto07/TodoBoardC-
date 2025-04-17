@@ -20,4 +20,26 @@ $(function () {
 
     }
   });
+
+  $('#form-add-board').on('submit', () => {
+    event.preventDefault();
+    var boardName = $('#board-name').val();
+    var selectedCategory = $('#selectCategory').val();
+
+    $.ajax({
+      url: '/createboard',
+      type: 'POST',   
+      data: {
+        Name: boardName,
+        Description: selectedCategory
+      },
+      success: function (resposta) {
+        console.log('Dados enviados com sucesso:', resposta);
+      },
+      error: function (erro) {
+        console.error('Erro ao enviar dados:', erro);
+      }
+    });
+
+  })
 });

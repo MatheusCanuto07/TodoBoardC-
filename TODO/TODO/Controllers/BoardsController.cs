@@ -23,11 +23,12 @@ public class BoardsController : Controller
         try
         {
             Board? board = null;
-
+            BoardViewModel b = new BoardViewModel("Fazer dashboard", "Tela Relatorio: ");
+               
             // Se o repo não tiver nenhum board, cria um
             if (!_repo.Any())
             {
-                board = await _boardsService.CreateBoard();
+                board = await _boardsService.CreateBoard(b);
                 _repo.Add(board);
             }
             else
@@ -65,13 +66,17 @@ public class BoardsController : Controller
         }
     }
 
-    [Route("createboard")]
+    [Route("createsection")]
     [HttpPost]
-    public async Task<IActionResult> CreateBoard()
+    public async Task<IActionResult> CreateSection(SectionViewModel section)
     {
         try
         {
             // Implementar o create e o update
+            // Ele vai na pasta que tem o nome da controller procurar pela view que tem esse nome
+
+            //var board = await _boardsService.CreateBoard(boardViewModel);
+
             return View("Index");
         }
         catch (Exception ex) {

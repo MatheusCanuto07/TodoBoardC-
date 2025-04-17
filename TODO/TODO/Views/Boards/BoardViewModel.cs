@@ -8,4 +8,10 @@ public class BoardViewModel
 	public string Name { get; set; }
 	public string Description { get; set; }
 	public List<SectionViewModel> Sections { get; set; } = [];
+	public BoardViewModel(string nameP, string descriptionP)
+	{
+		Name = nameP;
+        Description = descriptionP;
+	}
+	public BoardViewModel() { }
 }
